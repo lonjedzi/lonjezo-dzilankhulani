@@ -20,7 +20,7 @@ const CONFIG = {
   blog: {
     title: "lonjezo-dzilankhulani",
     description: "welcome to my blog!",
-    scheme: "light", // 'light' | 'dark' | 'system'
+    scheme: "dark", // 'light' | 'dark' | 'system'
   },
 
   // CONFIG configration (required)
