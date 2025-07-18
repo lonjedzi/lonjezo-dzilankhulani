@@ -4,7 +4,7 @@ const CONFIG = {
     name: "lonjezo dzilankhulani",
     image: "/avatar.svg", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
     role: "cloud administrator",
-    bio: "I develop everything using node.",
+    bio: "I manage and maintain cloud infrastructure to ensure systems run efficiently, securely, and reliably.",
     email: "lodzilankhulani@gmail.com",
     linkedin: "lonjezo-dzilankhulani",
     github: "morethanmin",
@@ -18,9 +18,9 @@ const CONFIG = {
   ],
   // blog setting (required)
   blog: {
-    title: "morethan-log",
-    description: "welcome to morethan-log!",
-    scheme: "dark", // 'light' | 'dark' | 'system'
+    title: "lonjezo-dzilankhulani",
+    description: "welcome to my blog!",
+    scheme: "light", // 'light' | 'dark' | 'system'
   },
 
   // CONFIG configration (required)
