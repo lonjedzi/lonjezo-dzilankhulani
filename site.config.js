@@ -7,7 +7,7 @@ const CONFIG = {
     bio: "I manage and maintain cloud infrastructure to ensure systems run efficiently, securely, and reliably.",
     email: "lodzilankhulani@gmail.com",
     linkedin: "lonjezo-dzilankhulani",
-    github: "morethanmin",
+    github: "lonjedzi",
     instagram: "",
   },
   projects: [
